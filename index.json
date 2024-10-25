@@ -35,6 +35,15 @@
       "notices"
     ]
   },
+  "blueprints/friends-cors/blueprint.json": {
+    "title": "Feed Reader with the Friends Plugin",
+    "description": "By using the Friends plugin and a CORS proxy, you can read feeds from the web in Playground, and even via ActivityPub",
+    "author": "akirk",
+    "categories": [
+      "rss",
+      "social web"
+    ]
+  },
   "blueprints/grid-variations/blueprint.json": {
     "title": "Grid Variations Experiments enabled",
     "author": "bph",
